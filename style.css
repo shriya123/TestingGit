@@ -1,3 +1,9 @@
 body {
-    background-color :red;
+  background-color: red;
+}
+
+p {
+  font-size: 16px;
+  color: burlywood;
+  font-weight: 600;
 }
